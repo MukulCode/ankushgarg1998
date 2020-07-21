@@ -1,4 +1,4 @@
-![Cover Image](./cover.jpg)
+![Cover Image](https://github.com/ankushgarg1998/ankushgarg1998/blob/master/cover.jpg)
 
 ### Hi there 👋
 
