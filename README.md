@@ -1,5 +1,7 @@
 ![Cover Image](https://github.com/ankushgarg1998/ankushgarg1998/blob/master/cover.jpg)
 
+![](https://komarev.com/ghpvc/?username=ankushgarg1998)
+
 ### Hi there 👋
 
 <!--
@@ -15,3 +17,6 @@
 - 📫  &nbsp; Reach me: [linkedIn](https://www.linkedin.com/in/ankushgarg1998/) | [instagram](https://www.instagram.com/not_a_grownup/)
 - ⚡  &nbsp; Fun fact: I'm a self-proclaimed beatboxer and guitarist
 
+<hr>
+
+![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=ankushgarg1998&count_private=true)
